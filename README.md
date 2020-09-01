@@ -1,2 +1,2 @@
-# DeepSpeechWorkshop
-VH Fall DeepSpeechWorkshop
+# GoogleCloudWorkshop
+VH Fall GoogleCloudWorkshop
