@@ -1,7 +1,5 @@
 # GoogleCloudWorkshop
-VH Fall GoogleCloudWorkshop
-
-This repo is the HackPack for VandyHack's workshop about using Google Cloud machine learning APIs. 
+This repo is the HackPack for [VandyHack](https://vandyhacks.org/)'s workshop about using Google Cloud machine learning APIs. 
 
 ## What is Google Cloud?
 [Google cloud](https://cloud.google.com/docs/overview) is a platform that provides handy APIs that can run your tasks on virtual machines.
@@ -27,4 +25,4 @@ Please use our [slides](https://docs.google.com/presentation/d/1HVPxRWb3HA2-9NvK
 
 And get started through following our [Google Colab notebook](https://github.com/VandyHacks/GoogleCloudWorkshop/blob/master/VandyHacks_GoogleCloudAPIWorkshop.ipynb).
 
-If you have any questions, comments, suggestions, or concerns, contact us at [vandyhacks.org](vandyhacks.org).
+If you have any questions, comments, suggestions, or concerns, contact us at [vandyhacks.org](https://vandyhacks.org/).
