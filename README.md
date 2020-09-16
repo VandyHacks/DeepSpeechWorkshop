@@ -1,5 +1,5 @@
 # GoogleCloudWorkshop
-This repo is the HackPack for [VandyHack](https://vandyhacks.org/)'s workshop about using Google Cloud machine learning APIs. 
+This repo is the HackPack for [VandyHack](https://vandyhacks.org/)'s workshop about using Google Cloud machine learning APIs, adapted from [this notebook](https://github.com/GoogleCloudPlatform/training-data-analyst/blob/master/CPB100/lab4c/mlapis.ipynb).
 
 ## What is Google Cloud?
 [Google cloud](https://cloud.google.com/docs/overview) is a platform that provides handy APIs that can run your tasks on virtual machines.
